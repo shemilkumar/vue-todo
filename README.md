@@ -1,8 +1,13 @@
 # Modern TODO LIST VUE APP
-
+<image src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
+  
 Built using VueJS and Pinia as State Management.
 
-<image src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
+![screenshot1](https://github.com/shemilkumar/vue-todo/blob/main/src/assets/screenshot-3.png)
+
+![screenshot2](https://github.com/shemilkumar/vue-todo/blob/main/src/assets/screenshot-4.png)
+
+[screencast](https://github.com/shemilkumar/vue-todo/blob/main/src/assets/screencast.webm)
 
 ## Technologies
 
