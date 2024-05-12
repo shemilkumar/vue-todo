@@ -1,9 +1,35 @@
-# Vue 3 + TypeScript + Vite
+# Modern TODO LIST VUE APP
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Built using VueJS and Pinia as State Management.
 
-## Recommended Setup
+<image src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
 
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
+## Technologies
 
-- Use [vue-tsc](https://github.com/vuejs/language-tools/tree/master/packages/tsc) for performing the same type checking from the command line, or for generating d.ts files for SFCs.
+* Vue JS
+* Pinia (State Management)
+* Tailwind CSS
+* Typescript
+* Axios
+* Vite (development tool)
+* Git
+
+## Features Included
+* Can Add new Todo
+* Drag and Drop todos
+* Move to In Progress list
+* Move to Completed list
+* Remove todos
+* Track progress
+* Deadline indicator
+* Dark mode
+
+## Install Dependencies and Run
+
+```
+  npm install
+  npm start
+```
+* Version: 1.1.0
+* License: MIT
+* Author: Shemilkumar E A
